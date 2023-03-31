@@ -1,5 +1,5 @@
 # NupatTravel
-Nupat Assesment
+Nupat Assesment using ReactJs
 
 # This is a submisison of the nupat internship phase one. 
 Attached below is a the picture from the figma file.
